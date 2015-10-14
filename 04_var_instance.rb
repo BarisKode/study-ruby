@@ -2,8 +2,8 @@
 
 class Anggota
   def initialize(id, nama, addr)
-    @agt_id = id
-    @agt_nama = nama
+    @agt_id     = id
+    @agt_nama   = nama
     @agt_alamat = addr
   end
 

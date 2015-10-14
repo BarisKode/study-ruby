@@ -6,7 +6,7 @@ class Anggota2
   end
 
   def tambah_anggota
-    var_local = 1
+    var_local       = 1
     @jumlah_anggota = @jumlah_awal + var_local
     # puts 'Jumlah anggota baru = ' + @jumlah_anggota.to_s
     puts @jumlah_anggota
